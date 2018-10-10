@@ -8,13 +8,13 @@ permalink:           /:title
 relative_permalinks: false
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 site url
+timezone:            America/New_York # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
+name:				         Lights, Camera, Action
+title:               Lights, Camera, Action
+tagline:             'Photography by Scott Fisk'
+description:         'Photography by Scott Fisk'
+url:                 twistyjacks.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,15 +25,8 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  name:           	 Scott Fisk
+  url:            	 gofisk.com
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
